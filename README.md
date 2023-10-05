@@ -3,15 +3,18 @@
 Este es el desarrollo de un reto propio para el aprendizaje y práctica del preprocesador de CSS Saas.
 ([Saass Web](https://sass-lang.com/))
 
+
 ## Tabla de contenido
+
 
 ### Vista previa
 ![Captura de pantalla de sitio web](preview.PNG)
 
+
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
 
 ## Proceso de desarrollo
 
@@ -24,42 +27,19 @@ Este es el desarrollo de un reto propio para el aprendizaje y práctica del prep
 
 
 ### Lo aprendido
+Usar un preprocesador de CSS como Saas ayuda a agilizar y mejorar la eficiencia en el proceso de desarrollo web front end, ya que nos da la capacidad de aplicar los estilos CSS utilizando paradigmas de los lenguajes de programación, esto permite que se pueda escribir un código de manera mas clara, estandarizada para los diversos nevegadores existentes, con código de facil mantenimiento y reutilizable.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Entre las caracteristicas mas destacadas de este preprocesador:
 
-To see how you can add code snippets, see below:
+- Saas permite definir variables, codigo reutilizable para los colores, fuentes, tamaños, margenes, etc,  que permiten realizar un cambio global en el diseño.
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+- Anidar estilos: genera un código más intuitivo y fácil de entender.
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+- Mixins, funciones, operadores:  permiten generar bloques de codigo css reutilizable, hacer cálculos, crear bucles y aplicar lógica condicional.
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
+- Modularidad, Saas permite crear archivos CSS modulares para mejorar la organización y gestión del codigo, estos modulos pueden ser compilados en solo archivo CSS.
 
 ## Author:  Carlos Múnera
 
-- [Linked In.](https://www.linkedin.com/in/carlos-munera-259969262)
 - [Alura - Oracle ONE Next Education.](https://app.aluracursos.com/user/karlosmunera)
+- [Linked In.](https://www.linkedin.com/in/carlos-munera-259969262)
