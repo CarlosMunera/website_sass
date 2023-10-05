@@ -13,7 +13,7 @@ Este es el desarrollo de un reto propio para el aprendizaje y práctica del prep
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Ver en vivo el desarrollo: [Add live site URL here](https://carlosmunera.github.io/website_sass/)
 
 
 ## Proceso de desarrollo
@@ -29,7 +29,7 @@ Este es el desarrollo de un reto propio para el aprendizaje y práctica del prep
 ### Lo aprendido
 Usar un preprocesador de CSS como Saas ayuda a agilizar y mejorar la eficiencia en el proceso de desarrollo web front end, ya que nos da la capacidad de aplicar los estilos CSS utilizando paradigmas de los lenguajes de programación, esto permite que se pueda escribir un código de manera mas clara, estandarizada para los diversos nevegadores existentes, con código de facil mantenimiento y reutilizable.
 
-Entre las caracteristicas mas destacadas de este preprocesador:
+Entre las características más destacadas de este preprocesador:
 
 - Saas permite definir variables, codigo reutilizable para los colores, fuentes, tamaños, margenes, etc,  que permiten realizar un cambio global en el diseño.
 
