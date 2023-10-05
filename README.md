@@ -13,7 +13,7 @@ Este es el desarrollo de un reto propio para el aprendizaje y práctica del prep
 
 ### Links
 
-- Ver en vivo el desarrollo: [Add live site URL here](https://carlosmunera.github.io/website_sass/)
+- Link del proyecto: [Sitio web](https://carlosmunera.github.io/website_sass/)
 
 
 ## Proceso de desarrollo
